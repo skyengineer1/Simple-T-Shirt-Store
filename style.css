@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.add-to-cart {
+    background-color: yellow;
+    border: 2px solid black;
+    padding: 0.5em 1em;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.buy-now {
+    background-color: tomato;
+    border: 2px solid black;
+    padding: 0.5em 1em;
+    font-weight: bold;
+    cursor: pointer;
+}
